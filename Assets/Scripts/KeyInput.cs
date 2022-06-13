@@ -1,10 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using System.Collections;
+using UnityEngine.UI;
 
 public class KeyInput : MonoBehaviour
 {
-  public Image graphic;
+    public Image graphic;
     public Sprite standard;
     public Sprite downgfx;
     public Sprite upgfx;
